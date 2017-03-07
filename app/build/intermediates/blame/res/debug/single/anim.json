@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\code\\choosepicdemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "F:\\code\\choosepicdemo\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "F:\\code\\choosepicdemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "F:\\code\\choosepicdemo\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    }
+]

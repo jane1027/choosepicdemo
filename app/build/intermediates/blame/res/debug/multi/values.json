@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "F:\\code\\choosepicdemo\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "F:\\code\\choosepicdemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 50,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 30,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "F:\\code\\choosepicdemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 31,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "F:\\code\\choosepicdemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "F:\\code\\choosepicdemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            }
+        ]
+    }
+]

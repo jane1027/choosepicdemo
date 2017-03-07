@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\code\choosepicdemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="498d46325bddea15d2b13d342a3a3c1a8e70c680">
+        <dex dex="F:\code\choosepicdemo\app\build\intermediates\pre-dexed\debug\instant-run_b4f6ec9523d875dcf11031b4d04539ced3ae90b4.jar" />
+    </item>
+    <item
+        jar="F:\code\choosepicdemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8946a8873a01071ed38336352303409838e36c3">
+        <dex dex="F:\code\choosepicdemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d2b8f6ef2222386ac3468bda1b9c0cd8fc0cee66.jar" />
+    </item>
+
+</items>
